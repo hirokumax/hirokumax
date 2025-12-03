@@ -1,4 +1,4 @@
-# potential
+# stats
 
 - RPGツクールMVのプラグイン置き場
 
