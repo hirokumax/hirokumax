@@ -1,4 +1,4 @@
-# RPGMV-Plugin
+# potential
 
 - RPGツクールMVのプラグイン置き場
 
