@@ -1,4 +1,4 @@
-# stats
+# hirokumax
 
 - RPGツクールMVのプラグイン置き場
 
